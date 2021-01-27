@@ -1,0 +1,39 @@
+body{
+    background: whitesmoke;
+}
+
+.centered{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: linear-gradient(0deg, black, #24dbfc47);
+    padding: 28px 145px;
+}
+
+#btn{
+    background-color: #0500a0;
+    border: none;
+    color: white;
+    padding: 15px 132px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: auto;
+    cursor: pointer;
+}
+
+
+#userNum{
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: auto;
+    cursor: pointer;
+}
+
+.g{
+    text-align: center;
+}
